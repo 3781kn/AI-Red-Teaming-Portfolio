@@ -1,2 +1,4 @@
 # AI-Red-Teaming-Portfolio
 Advanced LLM Red Teaming & Adversarial Research Portfolio. A comprehensive repository documenting jailbreaks, prompt injections, and safety bypass behaviors across frontier models. Work ranges from tactical adversarial interactions to deep-dive analysis of model behavior, institutional failure modes, and socio-technical risk mitigation. All work is conducted for AI safety research, risk assessment, and responsible disclosure purposes
+## Repository Structure
+This repository contains independent red-teaming case studies and technical write-ups across multiple frontier models. Each artifact documents context and threat modeling, attack methodology, observed failure modes, impact and risk analysis, vulnerability classification, and scope or disclosure considerations. Individual cases are self-contained and can be read independently.
